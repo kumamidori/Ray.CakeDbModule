@@ -3,7 +3,7 @@
     "keywords": [
         "Ray.Di module",
         "cakephp",
-		"dbal"
+        "dbal"
     ],
     "description": "cakephp/database module for Ray.Di",
     "license": "BSD-3-Clause",
@@ -17,7 +17,7 @@
             "Ray\\CakeDbModule\\": "src/"
         }
     },
-	"autoload-dev": {
+    "autoload-dev": {
         "psr-4": {
             "Ray\\CakeDbModule\\": "tests/Fake/"
         }
